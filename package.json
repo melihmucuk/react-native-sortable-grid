@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sortable-grid",
+  "name": "react-native-sortable-grid-hoa",
   "keywords": [
     "drag-drop",
     "sortable",
@@ -11,7 +11,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ollija/react-native-sortable-grid.git"
+    "url": "git+https://github.com/melihmucuk/react-native-sortable-grid.git"
   },
   "license": "MIT",
   "dependencies": {},
